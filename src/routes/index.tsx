@@ -1,5 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import heroData from "@/assets/hero-data.jpg";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 export const Route = createFileRoute("/")({
   component: Index,
