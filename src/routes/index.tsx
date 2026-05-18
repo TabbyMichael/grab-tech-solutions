@@ -76,7 +76,7 @@ function Index() {
               <button className="px-7 py-4 bg-accent text-accent-foreground font-bold text-xs uppercase tracking-widest hover:brightness-110 transition">
                 Request Audit
               </button>
-              <button className="px-7 py-4 border border-white/20 font-bold text-xs uppercase tracking-widest hover:bg-white/5 transition">
+              <button className="px-7 py-4 border border-border font-bold text-xs uppercase tracking-widest hover:bg-surface transition">
                 View Portfolio
               </button>
             </div>
